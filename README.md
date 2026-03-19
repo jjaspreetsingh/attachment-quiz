@@ -1,7 +1,7 @@
-## Features
+# Attachment Quiz
 
+## Features
 - Feature 1
 - Feature 2
-- Feature 3
 
-The site is live at [jjaspreetsingh.com/attachment-quiz](http://jjaspreetsingh.com/attachment-quiz)
+Visit our live site at [jjaspreetsingh.com/attachment-quiz](http://jjaspreetsingh.com/attachment-quiz) for a demo!
